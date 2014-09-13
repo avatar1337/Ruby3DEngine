@@ -10,7 +10,9 @@ I then decided to call it Ruby. It is not related to the programming language Ru
 
 When I was 16 I created my first 3D Engine. I didn't want to research how you made one, so I had to figure everything out
 for myself. When I got a bit older, with knowledge in linear algebra, I wanted to write a new 3D engine, but this time
-in Java.
+in Java. I really put my linear algebra to use with the lightning effects. =)
+
+Ruby is based on Java's built in 2D library. It has some 2D accelerated graphics, but no 3D.
 
 This repository contains STL files that you can play around with.
 STL files are simple 3D model files containing very basic information.
